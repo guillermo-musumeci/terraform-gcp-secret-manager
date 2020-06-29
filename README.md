@@ -1,0 +1,1 @@
+# terraform-gcp-secret-manager
